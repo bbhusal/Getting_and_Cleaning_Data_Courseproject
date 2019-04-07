@@ -10,6 +10,7 @@ Summary of the resulting data fields in `tidy.txt`.
 ## Measurements
 
  `tBodyAccMeanX`
+ 
  `tBodyAccMeanY`
  `tBodyAccMeanZ`
  `tBodyAccStdX`
